@@ -30,7 +30,7 @@ My work focuses on reliable data pipelines, API integrations, data modeling, bac
 
 ## Portfolio highlights
 
-### Logistics Data Pipeline
+### [Logistics Data Pipeline](https://github.com/brenocorcino/logistics-data-pipeline)
 
 End-to-end pipeline for extracting operational data through APIs, transforming and validating records, loading them into PostgreSQL, and delivering curated datasets for BI and reporting. The architecture uses Raw, Silver, and Gold layers, with idempotent processing and data-quality controls.
 
@@ -42,7 +42,7 @@ Automation workflow that replaces repetitive report extraction and consolidation
 
 Backend and analytics solution built around FastAPI, PostgreSQL, and business indicators. It centralizes data access and supports dashboards for monitoring performance, operational exceptions, and trends.
 
-> Public portfolio versions are being prepared with anonymized data and without proprietary code, credentials, internal URLs, or confidential business information.
+> The [Logistics Data Pipeline](https://github.com/brenocorcino/logistics-data-pipeline) is publicly available with synthetic data. Additional portfolio projects are being prepared without proprietary code, credentials, internal URLs, or confidential business information.
 
 ---
 
@@ -66,7 +66,7 @@ Meu trabalho envolve pipelines de dados, integrações com APIs, modelagem, serv
 
 ## Projetos em destaque
 
-### Pipeline de Dados para Operações Logísticas
+### [Pipeline de Dados para Operações Logísticas](https://github.com/brenocorcino/logistics-data-pipeline)
 
 Pipeline de ponta a ponta para extrair dados operacionais por APIs, transformar e validar registros, carregá-los no PostgreSQL e disponibilizar conjuntos de dados tratados para BI e relatórios. A arquitetura utiliza camadas Raw, Silver e Gold, processamento idempotente e controles de qualidade.
 
@@ -78,7 +78,7 @@ Fluxo de automação que substitui etapas repetitivas de extração e consolida�
 
 Solução de backend e análise construída com FastAPI, PostgreSQL e indicadores de negócio. Centraliza o acesso aos dados e sustenta dashboards para acompanhar desempenho, exceções operacionais e tendências.
 
-> As versões públicas dos projetos estão sendo preparadas com dados anonimizados e sem código proprietário, credenciais, endereços internos ou informações confidenciais.
+> O [Logistics Data Pipeline](https://github.com/brenocorcino/logistics-data-pipeline) já está disponível publicamente com dados fictícios. Os demais projetos estão sendo preparados sem código proprietário, credenciais, endereços internos ou informações confidenciais.
 
 </details>
 
