@@ -34,7 +34,7 @@ My work focuses on reliable data pipelines, API integrations, data modeling, bac
 
 End-to-end pipeline for extracting operational data through APIs, transforming and validating records, loading them into PostgreSQL, and delivering curated datasets for BI and reporting. The architecture uses Raw, Silver, and Gold layers, with idempotent processing and data-quality controls.
 
-### Operational Reporting Automation
+### [Operational Reporting Automation](https://github.com/brenocorcino/operational-reporting-automation)
 
 Automation workflow that replaces repetitive report extraction and consolidation with Python-based processing. It combines browser automation, structured data transformations, and Excel delivery to reduce manual work and improve consistency.
 
@@ -42,7 +42,7 @@ Automation workflow that replaces repetitive report extraction and consolidation
 
 Backend and analytics solution built around FastAPI, PostgreSQL, and business indicators. It centralizes data access and supports dashboards for monitoring performance, operational exceptions, and trends.
 
-> The [Logistics Data Pipeline](https://github.com/brenocorcino/logistics-data-pipeline) is publicly available with synthetic data. Additional portfolio projects are being prepared without proprietary code, credentials, internal URLs, or confidential business information.
+> The [Logistics Data Pipeline](https://github.com/brenocorcino/logistics-data-pipeline) and [Operational Reporting Automation](https://github.com/brenocorcino/operational-reporting-automation) are publicly available with synthetic data. Additional portfolio projects are being prepared without proprietary code, credentials, internal URLs, or confidential business information.
 
 ---
 
@@ -70,7 +70,7 @@ Meu trabalho envolve pipelines de dados, integrações com APIs, modelagem, serv
 
 Pipeline de ponta a ponta para extrair dados operacionais por APIs, transformar e validar registros, carregá-los no PostgreSQL e disponibilizar conjuntos de dados tratados para BI e relatórios. A arquitetura utiliza camadas Raw, Silver e Gold, processamento idempotente e controles de qualidade.
 
-### Automação de Relatórios Operacionais
+### [Automação de Relatórios Operacionais](https://github.com/brenocorcino/operational-reporting-automation)
 
 Fluxo de automação que substitui etapas repetitivas de extração e consolidação de relatórios por processamento em Python. A solução combina automação de navegador, transformação estruturada dos dados e entrega em Excel.
 
@@ -78,7 +78,7 @@ Fluxo de automação que substitui etapas repetitivas de extração e consolida�
 
 Solução de backend e análise construída com FastAPI, PostgreSQL e indicadores de negócio. Centraliza o acesso aos dados e sustenta dashboards para acompanhar desempenho, exceções operacionais e tendências.
 
-> O [Logistics Data Pipeline](https://github.com/brenocorcino/logistics-data-pipeline) já está disponível publicamente com dados fictícios. Os demais projetos estão sendo preparados sem código proprietário, credenciais, endereços internos ou informações confidenciais.
+> O [Logistics Data Pipeline](https://github.com/brenocorcino/logistics-data-pipeline) e a [Automação de Relatórios Operacionais](https://github.com/brenocorcino/operational-reporting-automation) estão disponíveis publicamente com dados fictícios. Os próximos projetos serão preparados sem código proprietário, credenciais, endereços internos ou informações confidenciais.
 
 </details>
 
